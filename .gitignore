@@ -1,3 +1,7 @@
+# Visual C++ files
+Debug
+*.suo
+
 # Compiled Object files
 *.slo
 *.lo
